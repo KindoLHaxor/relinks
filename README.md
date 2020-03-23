@@ -1,5 +1,5 @@
 # relinks
-Auto Check Links With Wordlist
+Auto Check Wordpress Links With Wordlist
 
 What is a relinks?
 Relinks is the tools to check the site with the wordlist you use, 
