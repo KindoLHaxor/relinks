@@ -36,7 +36,7 @@ printf "${red}[=]${white} List                        :${lightgreen} "
 read list
 
 
-source="<html>"
+source="/wp-content"
 
 printf "${red}[=]${white} Save As                     :${lightgreen} "
 read save
