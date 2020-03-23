@@ -21,7 +21,7 @@ ${lightgreen}
 |   /| |  _ \ / _  |/ _ \| |    
 | . \| | | | | (_| | (_) | |___ 
 |_|\_\_|_| |_|\__._|\___/|_____| \n
-${white}AUTO CHECK CREATE LINK WITH WORDLIST    
+${white}AUTO CHECK WORDPRESS LINK WITH WORDLIST    
 ${lightgreen}=====================================================\n
 ${BlueF}root@Date :~$ ${cyan}$(date) \n
 ${BlueF}#!/system/bin/bash Linux Android x86_64 
